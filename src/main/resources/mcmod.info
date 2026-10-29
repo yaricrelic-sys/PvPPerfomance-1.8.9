@@ -1,0 +1,13 @@
+
+[
+  {
+    "modid": "pvpperformance",
+    "name": "PvP Performance",
+    "description": "Experimental performance optimization for Minecraft 1.8.9.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["PvPPerformance contributors"],
+    "credits": "Experimental project",
+    "dependencies": []
+  }
+]
